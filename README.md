@@ -10,6 +10,8 @@ The game already shows a basic Discord status. This app just fills it with real 
 - The track you're racing on
 - If you're playing online or offline
 - Adventure Mode type (Nitro-Fueled or Classic)
++ rpc example
+<img src="https://i.imgur.com/kyaRN27.png" width="450" alt="CTR RPC Bridge">
 
 ## How to use it
 
