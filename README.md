@@ -60,4 +60,4 @@ This is a fan project. It is not made by, or connected to, Activision, Toys for 
 
 ## License
 
-MIT. See [LICENSE](LICENSE). Do what you want with it, just keep my name on it and don't blame me if something breaks.
+MIT. See [LICENSE](LICENSE.md). Do what you want with it, just keep my name on it and don't blame me if something breaks.
