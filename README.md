@@ -11,6 +11,7 @@ The game already shows a basic Discord status. This app just fills it with real 
 - If you're playing online or offline
 - Adventure Mode type (Nitro-Fueled or Classic)
 + rpc example
+**open it before joining online matches ( so it can know you're in online )**
 <img src="https://i.imgur.com/kyaRN27.png" width="450" alt="CTR RPC Bridge">
 
 ## How to use it
